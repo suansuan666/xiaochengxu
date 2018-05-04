@@ -1,0 +1,23 @@
+<view class='box'>
+<view class='navigate'>
+<text class='navigator'>服装</text>
+<text class='navigator'>配饰</text>
+<text class='navigator'>图书</text>
+<text class='navigator'>箱包</text>
+<text class='navigator'>3c</text>
+<text class='navigator'>杂物</text>
+<text class='navigator'>乐器</text>
+</view>
+<view class='container'>
+<image src='../../images/mac.jpg' class='img'></image>
+<image src='../../images/amani.jpg' class='img'></image>
+<image src='../../images/手机壳.jpg' class='img'></image>
+<image src='../../images/帽子.jpg' class='img'></image>
+<image src='../../images/照相机.jpg' class='img'></image>
+<image src='../../images/帆布包.jpg' class='img'></image>
+<image src='../../images/书1.jpg' class='img'></image>
+<image src='../../images/书2.jpg' class='img'></image>
+<image src='../../images/书3.jpg' class='img'></image>
+<image src='../../images/书4.jpg' class='img'></image>
+</view>
+</view>

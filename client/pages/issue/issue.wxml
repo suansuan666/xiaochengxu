@@ -1,0 +1,24 @@
+<view class='container'>
+<view class='photo'>
+<image src='../../images/照相机.png' class='img'></image>
+<view class='add'><text>添加图片</text></view>
+</view>
+<view class='content'>
+<view class='headline'>
+<textarea class='hl' placeholder='添加标题'></textarea>
+</view>
+<view class='introduce'>
+<textarea class='intro' placeholder='宝贝详述，添加宝贝的尺寸规格、新旧程度可能会让您的宝贝更快被人关注到哦~'></textarea>
+</view>
+<view class='sort'>
+<text>分类</text>
+<view class='choose'>
+<text>选择分类</text>
+<image src='../../images/箭头.png' class='picture'></image>
+</view>
+</view>
+</view>
+<view class='footer'>
+<text>发布</text>
+</view>
+</view>

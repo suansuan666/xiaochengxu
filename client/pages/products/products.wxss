@@ -1,0 +1,31 @@
+.navigate{
+  height: 50rpx;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 0.5px solid #778899;
+}
+.navigator{
+  width:130rpx;
+  height:50rpx;
+  line-height: 50rpx;
+  font-size: 28rpx;
+}
+.but{
+  border-color: white;
+  font-size: 28rpx;
+}
+.img{
+  height:300rpx;
+  width:300rpx;
+  margin:30rpx;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 10rpx;
+}
+.box{
+  display: flex;
+   flex-wrap: wrap; 
+}

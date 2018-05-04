@@ -1,0 +1,33 @@
+<view class='content'>
+<view class='user'>
+<image src='../../images/user1.jpg' class='image'></image>
+<view class='user1'>
+<text class='username'>春楠</text>
+<text class='date'>昨天 18:50</text>
+</view>
+</view>
+<image src='../../images/用户.jpg' class='img'></image>
+<text class='intro'>之前在淘宝上卖的帆布包，很漂亮吧，哈哈哈，现在又买了一个新的，有喜欢这个包的吗，想要的可以联系我哦~~</text>
+</view>
+<view class='content'>
+<view class='user'>
+<image src='../../images/user2.jpg' class='image'></image>
+<view class='user1'>
+<text class='username'>特立独行的猫</text>
+<text class='date'>昨天 15:30</text>
+</view>
+</view>
+<image src='../../images/书2.jpg' class='img'></image>
+<text class='intro'>天气渐渐的越来越热了。近六月时，天气热了些，老船夫把一个满是灰尘的黑陶缸子从屋角隅里搬出，自己还匀出闲工夫，拼了几方木板作成一个圆盖。又锯木头作成一个三脚架子，且削刮了个大竹筒，用葛藤系定，放在缸边作为舀茶的家具。</text>
+</view>
+<view class='content'>
+<view class='user'>
+<image src='../../images/user3.jpg' class='image'></image>
+<view class='user1'>
+<text class='username'>西瓜呀</text>
+<text class='date'>04-29</text>
+</view>
+</view>
+<image src='../../images/包1.jpg' class='img'></image>
+<text class='intro'>小ck家去年的款，当时超级喜欢！！</text>
+</view>

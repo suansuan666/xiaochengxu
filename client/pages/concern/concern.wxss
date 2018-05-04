@@ -1,0 +1,38 @@
+.image{
+  width: 60rpx;
+  height:60rpx;
+  border-radius: 50%;
+}
+.username,.intro{
+  font-size:28rpx;
+}
+.date{
+  font-size: 20rpx;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-around; */
+}
+.user{
+  display: flex;
+  flex-direction: row;
+  margin: 20rpx;
+}
+.user1{
+  display: flex;
+  flex-direction: column;
+  margin-left: 30rpx;
+}
+.img{
+  width:800rpx;
+  height:800rpx;
+}
+.intro{
+  padding: 23rpx;
+  border-bottom: 0.5rpx solid #778899;
+  color: #708090;
+}
+.username{
+  margin-bottom: 10rpx;
+}

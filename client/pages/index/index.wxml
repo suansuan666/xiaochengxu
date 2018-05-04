@@ -1,0 +1,54 @@
+<view class="header">
+<navigator url='../user/user' class='navigate-top'><image src="../../images/JJ.jpg" class="img1"></image></navigator>
+<navigator url='../products/products' class='navigate-top'>推荐好物</navigator>
+<navigator url='../concern/concern' class='navigate-top'>关注</navigator>
+<navigator url='../issue/issue' class='navigate-top'><image src='../../images/添加.png' class='img2'></image></navigator>
+</view>
+<view class='search'>
+<navigator url='../search/search' class='navigate-input'><image src='../../images/搜索.png' class='img3'></image><input placeholder='搜一搜，搜出好物' class='sou'></input></navigator>
+</view>
+<view class='slideshow'>
+<swiper indicator-dots='{{indicatorDots}}' autoplay='true' interval='{{interval}}' duration='{{duration}}'>
+<block wx:for='{{imgUrls}}'>
+<swiper-item>
+<image src='{{item}}' class='slide-image'></image>
+</swiper-item>
+</block>
+</swiper>
+</view>
+<view class='container'>
+<view class='content'>
+<navigator url='../product/product' class='navigate-content'><image src='../../images/衬衣.jpg' class='img'></image></navigator>
+<text class='headline'>上个月刚买的衬衣，只穿过两次，突然不喜欢这颜色，希望它能找到新的主人！</text>
+<view class='collect'>
+<text class="user-lable">林大陈冠希</text>
+<image src='../../images/未收藏.png' class='picture'></image></view>
+<!-- <view class='tool'>
+<view class='tool-img'>
+<image wx:if='{{collected}}' catchtap='onCollectionTap' src='../../images/未收藏.png'></image>
+<image wx:else catchtap='onCollectionTap' src='../../images/收藏.png'></image> -->
+<!-- </view>
+</view> -->
+</view>
+<view class='content'>
+<navigator url='' class='navigate-content'><image src='../../images/眼镜.jpg' class='img'></image></navigator>
+<text class='headline'>去年在学校眼镜店配的，度数300，因为度数上涨了用不了了，如果有需要的可以联系我！</text>
+<view class='collect'>
+<text class='user-lable'>我是雷锋</text>
+<image src='../../images/未收藏.png' class='picture'></image></view>
+</view>
+<view class='content'>
+<navigator url='' class='navigate-content'><image src='../../images/手机壳.jpg' class='img'></image></navigator>
+<text class='headline'>敲可爱的手机壳，我之前的最爱!!你还不心动吗！！</text>
+<view class='collect'>
+<text class='user-lable'>我是小仙女呀</text>
+<image src='../../images/未收藏.png' class='picture'></image></view>
+</view>
+<view class='content'>
+<navigator url='' class='navigate-content'><image src='../../images/帽子.jpg' class='img'></image></navigator>
+<text class='headline'>郑爽同款！再说一次郑爽同款！！你确定你不看一眼吗？</text>
+<view class='collect'>
+<text class='user-lable'>apple</text>
+<image src='../../images/未收藏.png' class='picture'></image></view>
+</view>
+</view>

@@ -1,0 +1,57 @@
+.img{
+  height: 50rpx;
+  width:50rpx;
+  margin-right: 40rpx;
+}
+.user{
+  height:100rpx;
+  display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+  align-items: center; 
+  
+}
+.user2{
+  display: flex;
+  padding: 30rpx;
+}
+.username{
+ 
+  height:30rpx;
+  line-height: 30rpx;
+  margin: 20rpx;
+  font-size: 30rpx;
+}
+.concern{
+   width:100rpx;
+   height:50rpx;
+   line-height: 50rpx;
+   font-size: 30rpx;
+   padding-left:30rpx;
+   margin-right: 50rpx;
+   background-color:	#DCDCDC;
+   border-radius: 5rpx;
+}
+.footer{
+  height: 80rpx;
+   display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+  align-items: center;
+  border-bottom: 0.5rpx solid #778899;
+  padding: 10rpx;
+  font-size: 30rpx;
+}
+.picture{
+  width:60rpx;
+  height:60rpx;
+  border-radius: 50%;
+}
+.introduce{
+  width:650rpx;
+  height:400rpx;
+  font-size:28rpx;
+  border: 0.5rpx solid #778899;
+  padding:30rpx;
+  margin:20rpx;
+}

@@ -1,0 +1,26 @@
+<view class='header'>
+<view class='box'>
+<view class='image'><image src='../../images/JJ.jpg' class='img'></image></view>
+<view class='name'><text class='username'>林俊杰是我老公</text></view>
+</view>
+<view class='navigate'>
+<navigator url='' class='concern'><text class='word'>关注</text><text class='number'>10</text>
+</navigator>
+<navigator url='' class='fans'><text class='word'>粉丝</text>
+<text class='number'>20</text></navigator>
+<navigator url='' class='collected'><text class='word'>收藏</text><text class='number'>18</text></navigator>
+</view>
+</view>
+<view class='wrapper'>
+<view class='lable'>
+<navigator url='' class='treasure'>已淘到的宝贝</navigator>
+<navigator url='' class='treasure'>已换的宝贝</navigator>
+</view>
+<view class='container'>
+<image src='../../images/帆布包.jpg' class='picture'></image>
+<image src='../../images/手表.jpg' class='picture'></image>
+<view class='footer'>
+<text class='end'></text>
+</view>
+</view>
+</view>

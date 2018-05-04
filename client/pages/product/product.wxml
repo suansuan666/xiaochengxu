@@ -1,0 +1,17 @@
+<view class='photoshow'>
+<image src='../../images/衬衣.jpg'></image>
+</view>
+<view class='user'>
+<view class='user2'>
+<image src='../../images/user4.jpg' class='picture'></image>
+<text class='username'>林大陈冠希</text>
+</view>
+<text class='concern'>关注</text>
+</view>
+<view class='introduce'>
+<textarea>衬衫是之前在商场里买的，买回来只穿过两次，但是我衬衣太多了，所以想闲置掉它，希望有喜欢它的朋友把他带走！</textarea>
+</view>
+<view class='footer'>
+<text class='contact'>联系方式：1274923710（QQ）</text>
+<image src='../../images/未收藏.png' class='img'></image>
+</view>
